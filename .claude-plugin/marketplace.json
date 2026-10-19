@@ -1,0 +1,13 @@
+{
+  "name": "benito",
+  "description": "Plugin Claude Code di Andrea, verificati prima dell'installazione",
+  "owner": { "name": "andrelp99-tools" },
+  "plugins": [
+    { "name": "caveman", "source": "./plugins/caveman", "description": "Risposte stile caveman, max di default" },
+    { "name": "scienza", "source": "./plugins/scienza", "description": "115 skill scientifiche a categorie, menu a inizio sessione" },
+    { "name": "hallmark", "source": "./plugins/hallmark", "description": "Design di pagine e interfacce senza faccia da AI" },
+    { "name": "book-to-skill", "source": "./plugins/book-to-skill", "description": "Libro o documento → skill" },
+    { "name": "humanizer", "source": { "source": "github", "repo": "blader/humanizer", "sha": "8c307f367c91bd974002f10f2be2965d642c13df" }, "description": "Toglie i tic da testo AI (versione verificata 16/10/2026)" },
+    { "name": "superpowers", "source": { "source": "github", "repo": "obra/superpowers" }, "description": "Metodo di lavoro: brainstorming, piano, test, debug (repo ufficiale, si aggiorna da sola)" }
+  ]
+}

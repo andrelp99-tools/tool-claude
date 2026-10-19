@@ -1,0 +1,1 @@
+{ "name": "book-to-skill", "description": "Trasforma un libro o documento (PDF, EPUB, DOCX) in una skill per Claude Code (da virgiliojr94/book-to-skill).", "version": "1.0.0", "author": { "name": "andrelp99-tools" }, "license": "MIT" }

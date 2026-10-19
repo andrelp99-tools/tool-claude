@@ -1,0 +1,2 @@
+Adapted from JuliusBrussee/caveman (commit bad48a0, Apache-2.0): skills/ultracave + skills/caveman.
+Changes: merged into one claude.ai skill, max as default level, removed hook/status references.

@@ -1,0 +1,8 @@
+{
+  "hooks": {
+    "SessionStart": [
+      { "matcher": "startup|clear|compact|resume",
+        "hooks": [ { "type": "command", "command": "echo 'Preferenza di Andrea: caveman max attivo in ogni sessione. Claude segue la skill caveman:caveman finché Andrea non scrive \"stop caveman\" o \"normal mode\".'", "timeout": 10 } ] }
+    ]
+  }
+}

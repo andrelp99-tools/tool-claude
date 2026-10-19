@@ -1,0 +1,7 @@
+{
+  "name": "scienza",
+  "description": "Libreria di 115 skill scientifiche (da K-Dense Scientific Agent Skills) caricate a categorie: menu a inizio sessione, peso zero finché non scegli.",
+  "version": "1.0.0",
+  "author": { "name": "andrelp99-tools" },
+  "license": "MIT"
+}

@@ -1,7 +1,7 @@
 # tool-claude (negozio plugin "benito")
 
 Marketplace personale di plugin Claude Code. Andrea usa Claude Code dall'app desktop su Windows e nell'app Claude (web/telefono).
-- Plugin: caveman (max default, promemoria a ogni avvio), scienza (115 skill K-Dense in `plugins/scienza/library/`, caricate a categorie da menu a inizio sessione), hallmark, book-to-skill, humanizer (github, bloccato a sha), superpowers (github, aggiornamenti automatici). Dettagli: **README.md** e **BENITO.md**.
+- Plugin: caveman (max default, promemoria a ogni avvio), menu (hook a inizio sessione: chiede quali skill benito usare e quali categorie scienza), scienza (115 skill K-Dense in `plugins/scienza/library/`, caricate a categorie dal menu), hallmark, book-to-skill, humanizer (github, bloccato a sha), superpowers (github, aggiornamenti automatici). Dettagli: **README.md** e **BENITO.md**.
 - Le skill della libreria scienza stanno fuori da `skills/` apposta: non vanno caricate tutte (peso ~28k token). Non spostarle.
 - Prima di aggiungere un plugin: analizza repo (codice, script, rete, licenza), poi `claude plugin validate .` e su ogni plugin.
 - Plugin scartati e perché: BENITO.md e progetto "Implementazioni app da Github".

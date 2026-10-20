@@ -1,5 +1,5 @@
 {
-  "description": "Menu categorie scientifiche a inizio sessione",
+  "description": "Menu skill benito a inizio sessione",
   "hooks": {
     "SessionStart": [
       {
